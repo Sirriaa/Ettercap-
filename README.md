@@ -5,6 +5,6 @@
 ---
 
 - ARP 스푸핑 공격
-- ![KakaoTalk_Photo_2024-01-04-00-31-04 002jpeg.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/6362a639-f970-427d-8bf9-8fdcbb0a3451/4c6aee91-bcfc-4d78-a384-31b4150ca78b/KakaoTalk_Photo_2024-01-04-00-31-04_002jpeg.jpeg)
+https://www.notion.so/Ettercap-1c8aa109019748dc9f8af1c2d36901c6?pvs=4#83f0fdd6889844d2bf77b505b8ca17a5
 
-![KakaoTalk_Photo_2024-01-04-00-31-04 001jpeg.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/6362a639-f970-427d-8bf9-8fdcbb0a3451/2a8e98ad-5ab7-4d15-981a-a0a85d7a3995/KakaoTalk_Photo_2024-01-04-00-31-04_001jpeg.jpeg)
+https://www.notion.so/Ettercap-1c8aa109019748dc9f8af1c2d36901c6?pvs=4#83f0fdd6889844d2bf77b505b8ca17a5
